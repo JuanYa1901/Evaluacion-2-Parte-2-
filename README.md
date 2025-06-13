@@ -1,8 +1,8 @@
 # Evaluacion-2 Parte 2
 
-UBB
-Carrera ICINF
-Trabajo Inteligencia Artifical
+##UBB
+##Carrera ICINF
+##Trabajo Inteligencia Artifical
 
 Profesora: Jazna Meza
 Integrantes: 
@@ -10,5 +10,5 @@ Integrantes:
   - Javier Villena Novoa
   - Juan Yáñez Romero
 
-Descripción del Proyecto
+###Descripción del Proyecto
 Este repositorio corresponde al desarrollo de la segunda parte de la Evaluación 2 "Modelos de Clasificación" del curso de Inteligencia Artificial
